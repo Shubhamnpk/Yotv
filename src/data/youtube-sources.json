@@ -1,0 +1,13 @@
+{
+  "sources": [
+    {
+      "id": "01",
+      "lang": "Nepali",
+      "country": "Nepal",
+      "name": "News 24",
+      "url": "https://youtu.be/vI_dorzAxUs",
+      "img": "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/news24-nepali-black.png",
+      "categories": ["news"]
+    }
+  ]
+}
