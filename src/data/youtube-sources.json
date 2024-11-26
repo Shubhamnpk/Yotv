@@ -8,6 +8,33 @@
       "url": "https://youtu.be/vI_dorzAxUs",
       "img": "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/news24-nepali-black.png",
       "categories": ["news"]
+    },
+    {
+      "id": "02",
+      "lang": "Nepali",
+      "country": "Nepal",
+      "name": "Avenues Khabar",
+      "url": "https://youtu.be/FhPYIFL_g8M",
+      "img": "https://imgur.com/ZE8Q4Hm",
+      "categories": ["news"]
+    },
+    {
+      "id": "03",
+      "lang": "English",
+      "country": "UK",
+      "name": "Sky tv",
+      "url": "https://youtu.be/oJUvTVdTMyY",
+      "img": "https://th.bing.com/th/id/OIP.4o57hS5whWA9eZ6nnux2YwHaFP?rs=1&pid=ImgDetMain",
+      "categories": ["news"]
+    },
+    {
+      "id": "04",
+      "lang": "English",
+      "country": "World",
+      "name": "UN",
+      "url": "https://youtu.be/wfAa1GiNdgM",
+      "img": "https://yt3.googleusercontent.com/ytc/AIdro_mhklaGL8Bhv52CUPcBs7hkD_NvL1T6b98voTSC0aCTxmM=s160-c-k-c0x00ffffff-no-rj",
+      "categories": ["news"]
     }
   ]
 }
