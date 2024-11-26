@@ -36,8 +36,9 @@ export default function LoadingScreen() {
           <div className="text-center space-y-8 p-8">
             <motion.div
               animate={{ 
-                scale: [1, 1.2, 1],
-                rotate: [0, 360]
+                scale: [1, 1.1, 1],
+                rotate: [0, 360],
+                opacity: [1, 0.8, 1]
               }}
               transition={{ 
                 duration: 2,

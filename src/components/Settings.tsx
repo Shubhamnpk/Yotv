@@ -65,8 +65,7 @@ export default function Settings({ languages, countries, categories }: SettingsP
                 animate={{ scale: 1, opacity: 1 }}
                 exit={{ scale: 0.95, opacity: 0 }}
                 transition={{ duration: 0.2 }}
-                className="fixed inset-4 sm:inset-auto sm:left-1/2 sm:top-1/2 sm:-translate-x-1/2 sm:-translate-y-1/2 
-                  bg-white dark:bg-gray-800 rounded-2xl shadow-xl sm:max-w-2xl w-full max-h-[90vh] overflow-hidden z-50"
+                className="fixed inset-0 flex items-center justify-center bg-white dark:bg-gray-800 rounded-2xl shadow-xl sm:max-w-2xl w-full max-h-[90vh] overflow-hidden z-50"
               >
                 <div className="flex flex-col h-full">
                   <div className="flex items-center justify-between p-6 border-b border-gray-200 dark:border-gray-700">
